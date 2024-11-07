@@ -1,0 +1,6 @@
+66.6946 	WARNING 	t of last frame was 31.68ms (=1/31)
+66.7951 	WARNING 	t of last frame was 30.49ms (=1/32)
+66.8618 	WARNING 	t of last frame was 31.32ms (=1/31)
+66.9119 	WARNING 	t of last frame was 31.39ms (=1/31)
+66.9934 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+67.7390 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
